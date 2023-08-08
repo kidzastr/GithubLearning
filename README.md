@@ -1,2 +1,11 @@
-<h1>Um arquivo de teste seguindo as aulas do Curso</h1>
-<p>Em processo de aprendizagem</p>
+<h1>Sistema de Cadastro de Jogos</h1>
+
+>Em processo de desenvolvimento
+
+
+Para rodar esse projeto na sua máquina, por favor digite:
+
+```
+node app.js
+```
+:)
